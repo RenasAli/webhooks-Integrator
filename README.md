@@ -1,5 +1,5 @@
 # webhooks-Integrator
-  - Integrating with Dani webhook:
+  - Integrating with webhook:
     
 ``` https://github.com/Dani025a/Danijel_System_Intergration/tree/main/mandatory_1/05a ```
 
